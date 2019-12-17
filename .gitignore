@@ -1,3 +1,10 @@
+data/*
+linked-wikitext-2/
+linked-wikitext-2/*
+.vscode/
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
