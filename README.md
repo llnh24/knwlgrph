@@ -11,3 +11,6 @@ Relevant techniques used in main paper:
 * COPYNET: [Incorporating Copying Mechanism in Sequence-to-Sequence Learning](https://www.aclweb.org/anthology/P16-1154.pdf)
   * Possible [repo](https://github.com/mjc92/CopyNet) with pytorch code 
 
+
+Download the PROCESSED data (linked-wikitext-2) containing 268MB from https://github.com/rloganiv/kglm-model
+Put in the data-folder into your repo named "linked-wikitext-2" or name it "data". If you name the folder anything else and its in the repo, remember to add it to the .gitignore!
