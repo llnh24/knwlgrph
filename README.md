@@ -1,4 +1,5 @@
-Link to main paper: https://rloganiv.github.io/assets/projects/kglm.pdf
+Link to main paper: [Barack’s Wife Hillary:Using Knowledge Graphs for Fact-Aware Language Modeling](https://rloganiv.github.io/assets/projects/kglm.pdf)
+* Code in offical [repo](https://github.com/rloganiv/kglm-model)
 
 Relevant paper to start with: [Dynamic Entity Representations in Neural Language Models](https://www.aclweb.org/anthology/D17-1195.pdf) \
 * Code in official [repo](https://github.com/jiyfeng/entitynlm)
