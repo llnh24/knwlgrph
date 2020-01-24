@@ -18,6 +18,8 @@ Relevant data sources/ preparations used in the paper:
 
 * Identify Coreferences on wikipedia using Standford CoreNLP: https://stanfordnlp.github.io/CoreNLP/
 
+* Annotating the dataset: https://github.com/rloganiv/kglm-data
+
 Download the PROCESSED data (linked-wikitext-2) containing 268MB from https://github.com/rloganiv/kglm-model
 Put in the data-folder into your repo named "linked-wikitext-2" or name it "data". If you name the folder anything else and its in the repo, remember to add it to the .gitignore!
 
